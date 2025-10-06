@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">🌺 I'm a 1st year student pursuing a career in software development 🎓 from Nova college Beverwijk 🏫. I'm a passionate developer who loves exploring and learning new programming languages and technologies 💡. Whether it's Python, JavaScript, C++, or something else entirely, I enjoy diving into a variety of languages and discovering what each one has to offer ✨.</p>
+<p align="center">🌺 I'm a 2nd year student pursuing a career in software development 🎓 from Nova college Beverwijk 🏫. I'm a passionate developer who loves exploring and learning new programming languages and technologies 💡. Whether it's Python, JavaScript, C++, or something else entirely, I enjoy diving into a variety of languages and discovering what each one has to offer ✨.</p>
 
 ###
 
