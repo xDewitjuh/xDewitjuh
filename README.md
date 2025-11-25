@@ -4,57 +4,49 @@
 
 ###
 
-<p align="center">🌺 I'm a 2nd year student pursuing a career in software development 🎓 from Nova college Beverwijk 🏫. I'm a passionate developer who loves exploring and learning new programming languages and technologies 💡. Whether it's Python, JavaScript, C++, or something else entirely, I enjoy diving into a variety of languages and discovering what each one has to offer ✨.</p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-</div>
-
-###
+<h1 align="center">Hi, I'm Dewi 👋</h1>
+<h3 align="center">Aspiring Backend & Cloud Developer</h3>
 
 ---
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xDewitjuh/xDewitjuh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xDewitjuh/xDewitjuh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xDewitjuh/xDewitjuh/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+## 🚀 About Me
+- 🎓 Software Development student (fast-track: year 1 completed + half of year 2 finished)  
+- 🔥 Interested in **Backend**, **APIs**, **Java**, **AWS**, **TypeScript**, **SQL**  
+- ⚡ Currently improving: Java, AWS, backend architecture  
+- 🎯 Looking for a **Software Engineering Internship (Backend / Cloud)**
 
 ---
 
-###
+## 🧠 Skills & Technologies
+### 🔹 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-<div align="center">
-  <img src="https://spotify-readme-image-d.24-7.dev/?eq_color=E37383&theme=dark&?theme=dark&spin=true&rainbow=false&scan=false" alt="Widget with the current Spotify song"  />
-</div>
+### 🔹 Tools & Frameworks  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+## ⭐ My Featured Project: StarFlix 🎬
+
+### 🔗 **[StarFlix on GitHub](https://github.com/xDewitjuh/StarFlix)**
+
+A full-stack movie application built with:
+
+- 🎯 **TypeScript + Elysia** backend  
+- 🔥 **REST API** for movies, reviews, auth, favourites & history  
+- 🗄️ **PostgreSQL** relational data  
+- 📦 **Docker Compose** multi-service setup  
+- 💻 HTML/CSS/JS frontend  
+
+```bash
+docker compose up --build
 
 ###
 
