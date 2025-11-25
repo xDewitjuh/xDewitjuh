@@ -44,12 +44,7 @@ A full-stack movie application built with:
 - 🗄️ **PostgreSQL** relational data  
 - 📦 **Docker Compose** multi-service setup  
 - 💻 HTML/CSS/JS frontend  
+```
 
-```bash
-docker compose up --build
-
-###
-
----
 
 
