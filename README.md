@@ -4,23 +4,29 @@
 
 ###
 
-<h1 align="center">Hi, I'm Dewi 👋</h1>
-<h3 align="center">Aspiring Backend & Cloud Developer</h3>
-
----
 
 ## 🚀 About Me
 - 🎓 Software Development student (fast-track: year 1 completed + half of year 2 finished)  
 - 🔥 Interested in **Backend**, **APIs**, **Java**, **AWS**, **TypeScript**, **SQL**  
 - ⚡ Currently improving: Java, AWS, backend architecture  
-- 🎯 Looking for a **Software Engineering Internship (Backend / Cloud)**
+- 🎯 Looking for a **Software Engineering Internship**
 
 ---
 
 ## 🧠 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,ts,sql,postgres,docker,git,github,aws" />
+    <img src="https://skillicons.dev/icons?i=js" height="40" /> 
+    <img src="https://skillicons.dev/icons?i=ts" height="40" /> 
+    <img src="https://skillicons.dev/icons?i=java" height="40" />
+    <img src="https://skillicons.dev/icons?i=py" height="40" /> 
+    <img src="https://skillicons.dev/icons?i=html" height="40" /> 
+    <img src="https://skillicons.dev/icons?i=css" height="40" /> 
+    <img src="https://skillicons.dev/icons?i=git" height="40" /> 
+    <img src="https://skillicons.dev/icons?i=github" height="40" /> 
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" /> 
+    <img src="https://skillicons.dev/icons?i=docker" height="40" /> 
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" /> 
 </p>
 
 ---
