@@ -5,8 +5,7 @@
 ###
 
 
-<h2 align="center">🚀 About Me</h2>
-
+## 🚀 About Me
 - 🎓 Software Development student (fast-track: year 1 completed + half of year 2 finished)  
 - 🔥 Interested in **Backend**, **APIs**, **Java**, **AWS**, **TypeScript**, **SQL**  
 - ⚡ Currently improving: Java, AWS, backend architecture  
@@ -14,7 +13,7 @@
 
 ---
 
-<h2 align="center">🧠 Skills & Technologies</h2>
+## 🧠 Skills & Technologies
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js" height="40" /> 
@@ -32,7 +31,7 @@
 
 ---
 
-<h2 align="center">⭐ My Featured Project: StarFlix 🎬</h2>
+## ⭐ My Featured Project: StarFlix 🎬
 
 ### 🔗 **[StarFlix on GitHub](https://github.com/xDewitjuh/StarFlix)**
 
@@ -44,6 +43,5 @@ A full-stack movie application built with:
 - 📦 **Docker Compose** multi-service setup  
 - 💻 HTML/CSS/JS frontend  
   
-
 
 
