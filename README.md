@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 🎓 Software Development student (fast-track: year 1 completed + half of year 2 finished)  
-- 🔥 Interested in **Backend**, **APIs**, **Java**, **AWS**, **TypeScript**, **SQL**  
+- 🔥 I love learning new things!
 - ⚡ Currently improving: Java, AWS, backend architecture  
 - 🎯 Looking for a **Software Engineering Internship**
 
