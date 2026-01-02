@@ -6,8 +6,11 @@
 
 
 ## 🚀 About Me
-- 🎓 Software Development student 
-- 🔥 I love learning new things!
+- 🎓 Software Development student (MBO 4)
+- 🛠️ Building projects and learning along the way  
+- 💡 Curious, motivated, and always improving
+
+This GitHub is a space for my projects, experiments, and growth as a developer.
 
 ---
 
