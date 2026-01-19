@@ -48,5 +48,5 @@ A full-stack movie application built with:
 
 ## 🙍‍♀️My portfolio website!
 
-### 🔗 **[https://github.com/xDewitjuh/StarFlix](https://xdewitjuh.github.io/Personal-portfolio/)**
+### 🔗 **[Portfolio link](https://xdewitjuh.github.io/Personal-portfolio/)**
 
