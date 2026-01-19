@@ -44,5 +44,9 @@ A full-stack movie application built with:
 - 📦 **Docker Compose** multi-service setup  
 - 💻 HTML/CSS/JS frontend  
   
+---
 
+## 🙍‍♀️My portfolio website!
+
+### 🔗 **([https://github.com/xDewitjuh/StarFlix](https://xdewitjuh.github.io/Personal-portfolio/))**
 
